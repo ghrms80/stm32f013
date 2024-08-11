@@ -1,0 +1,6 @@
+.metadata
+.DS_STORE
+stm32f103_fw/Debug
+stm32f103_fw/.settings
+stm32f103_boot/Debug
+stm32f103_boot/.settings
