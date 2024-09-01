@@ -21,8 +21,6 @@ void     cdcDataIn(uint8_t rx_data);
 uint32_t cdcWrite(uint8_t *p_data, uint32_t length);
 uint32_t cdcGetBaud(void);
 
-
 #endif
-
 
 #endif /* SRC_COMMON_HW_INCLUDE_CDC_H_ */

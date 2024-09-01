@@ -12,7 +12,7 @@
 #include "hw_def.h"
 
 
-#ifdef _USE_HW_USE
+#ifdef _USE_HW_USB
 
 bool usbInit(void);
 
