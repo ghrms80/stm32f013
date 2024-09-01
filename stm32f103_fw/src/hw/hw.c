@@ -10,6 +10,12 @@
 void hwInit(void)
 {
   bspInit();
+  rtcInit();
 
+  cliInit();
+  resetInit();
   ledInit();
+  usbInit();
+  uartInit();
+  flashInit();
 }
